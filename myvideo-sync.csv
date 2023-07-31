@@ -1,0 +1,4 @@
+VideoName,clickedAt,videoSyncTime,gpxSyncIndex,gpxSyncLat,gpxSyncLon
+Video1,2023-07-01T12:34:56,10:30:20,1,37.12345,-122.6789
+Video2,2023-07-01T12:45:00,11:15:45,2,37.23456,-122.7890
+Video3,2023-07-01T13:05:12,12:00:00,3,37.34567,-122.8901
